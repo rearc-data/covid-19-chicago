@@ -4,7 +4,7 @@
 As this outbreak has spread globally, Chicago Department of Public Health is tracking the COVID-19 cases and deaths closely and is using data to guide its response.
 
 # More Information:
-- [Source - City of Chicago](https://www.chicago.gov/city/en/sites/covid-19/home/latest-data.html)  
+- Source: [City of Chicago](https://www.chicago.gov/city/en/sites/covid-19/home/latest-data.html)  
 - Frequency: Daily
 
 # Contact Information
