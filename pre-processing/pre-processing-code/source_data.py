@@ -40,9 +40,5 @@ def source_dataset(s3_bucket, new_s3_key):
     output.close()
 
 	#uploading new s3 dataset
-    s3 = boto3.client("s3")
-    folder = "/tmp"
-
-    for filename in os.listdir(folder):
-    print(filename)
-    s3.upload_file("/tmp/" + filename, s3_bucket, new_s3_key + filename)
+    s3 = boto3.client('s3')
+    s3.upload_file('/tmp/' + today + '.pdf', s3_bucket, new_s3_key)
