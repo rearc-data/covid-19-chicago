@@ -5,7 +5,6 @@ from urllib.request import urlopen
 from html.parser import HTMLParser
 import datetime
 
-
 class MyHTMLParser(HTMLParser):
 
     def __init__(self):
