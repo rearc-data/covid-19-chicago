@@ -1,4 +1,4 @@
-# Chicago Covid-19 Update Data | City of Chicago
+# Chicago COVID-19 Update Data | City of Chicago
 
 # Main Overview
 As this outbreak has spread globally, Chicago Department of Public Health is tracking the COVID-19 cases and deaths closely and is using data to guide its response.
