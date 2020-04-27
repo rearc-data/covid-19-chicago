@@ -3,10 +3,10 @@
 ## Main Description
 As this outbreak has spread globally, Chicago Department of Public Health is tracking the COVID-19 cases and deaths closely and is using data to guide its response.
 
-If you are interested in subscribing to this product on AWS Data Exchange, please click [here](https://aws.amazon.com/marketplace/pp/prodview-awlpvbw6cui3g?ref_=srh_res_product_title).
+If you are interested in exploring this product on GitHub, please click [here](https://github.com/rearc-data/covid-19-chicago).
 
 ### Data Source
-This resource includes a PDF report of the latest data for cases of COVID-19 in Chicago, Illinois. This report is released daily by the City of Chicago. 
+This resource includes a PDF report of the latest data for cases of COVID-19 in Chicago, Illinois. This report is released daily by the City of Chicago.
 
 ## More Information:
 - [Source: City of Chicago | Latest Data](https://www.chicago.gov/city/en/sites/covid-19/home/latest-data.html)
