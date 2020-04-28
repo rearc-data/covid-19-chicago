@@ -4,7 +4,7 @@
 
 # Chicago COVID-19 Update Data | City of Chicago
 
-The source code in this repository automates the process of gathering, transforming, revising and publishing data for distribution on AWS Data Exchange (ADX). To subscribe to this product on ADX, please visit [aws.amazon.com/marketplace/pp/prodview-awlpvbw6cui3g](https://aws.amazon.com/marketplace/pp/prodview-awlpvbw6cui3g).
+You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting [https://aws.amazon.com/marketplace/pp/prodview-awlpvbw6cui3g](https://aws.amazon.com/marketplace/pp/prodview-awlpvbw6cui3g).
 
 ## Product Description
 As this outbreak has spread globally, Chicago Department of Public Health is tracking the COVID-19 cases and deaths closely and is using data to guide its response.
