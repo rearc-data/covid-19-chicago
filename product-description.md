@@ -1,21 +1,20 @@
-# Chicago COVID-19 Update Data | City of Chicago
+The source code used to automate the gathering, transforming, revising and publishing the data included with this product is avaiable at [https://github.com/rearc-data/covid-19-chicago](https://github.com/rearc-data/covid-19-chicago).
 
-## Main Description
+## Product Description
 As this outbreak has spread globally, Chicago Department of Public Health is tracking the COVID-19 cases and deaths closely and is using data to guide its response.
 
-If you are interested in exploring this product on GitHub, please click [here](https://github.com/rearc-data/covid-19-chicago).
+#### Data Source
+This product includes a PDF report covering the latest data for cases of COVID-19 in Chicago, Illinois. This report is released daily by the City of Chicago.
 
-### Data Source
-This resource includes a PDF report of the latest data for cases of COVID-19 in Chicago, Illinois. This report is released daily by the City of Chicago.
-
-## More Information:
-- [Source: City of Chicago | Latest Data](https://www.chicago.gov/city/en/sites/covid-19/home/latest-data.html)
+## More Information
+- Source: [City of Chicago | Latest Data](https://www.chicago.gov/city/en/sites/covid-19/home/latest-data.html)
 - [City of Chicago | Coronavirus Response Center](https://www.chicago.gov/city/en/sites/covid-19/home.html)
+- [Rearc | Data Homepage](https://www.rearc.io/data/)
 - Frequency: Daily
 - Format: PDF
 
-## Contact/Support Information
-- If you find any issues with or have enhancement ideas for this product, open up a GitHub [issue](https://github.com/rearc-data/covid-19-chicago/issues) and we will gladly take a look at it. Better yet, submit a pull request. Any contributions you make are greatly appreciated ♥.
+## Contact Details
+- If you find any issues with or have ideas to improve this product, open up a GitHub [issue](https://github.com/rearc-data/covid-19-chicago/issues) and we will gladly take a look at it. Better yet, submit a pull request. Any contributions you make are greatly appreciated :heart:.
 - If you are looking for specific open datasets currently not available on ADX, please submit a request on our project board [here](https://github.com/rearc-data/covid-datasets-aws-data-exchange/projects/1).
 - If you have questions about the source data, please contact the City of Chicago at coronavirus@chicago.gov.
 - If you have any other questions or feedback, send us an email at data@rearc.io.
