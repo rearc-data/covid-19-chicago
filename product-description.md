@@ -1,6 +1,6 @@
 # Chicago COVID-19 Update Data | City of Chicago
 
-The source code outlining how this product gathers, transforms, revises and publishes its datasets) is avaiable at [https://github.com/rearc-data/covid-19-chicago](https://github.com/rearc-data/covid-19-chicago).
+The source code outlining how this product gathers, transforms, revises and publishes its datasets is avaiable at [https://github.com/rearc-data/covid-19-chicago](https://github.com/rearc-data/covid-19-chicago).
 
 ## Product Description
 As this outbreak has spread globally, Chicago Department of Public Health is tracking the COVID-19 cases and deaths closely and is using data to guide its response.
