@@ -59,5 +59,3 @@ def source_dataset(new_filename, s3_bucket, new_s3_key):
 			s3.upload_file(file_location, s3_bucket, new_s3_key)
 
 			return [{'Bucket': s3_bucket, 'Key': new_s3_key}]
-
-source_dataset('test.pdf', 1, 2)
