@@ -7,6 +7,8 @@
 You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting [https://aws.amazon.com/marketplace/pp/prodview-awlpvbw6cui3g](https://aws.amazon.com/marketplace/pp/prodview-awlpvbw6cui3g).
 
 ## Main Overview
+**UPDATE: We will no longer be providing new revisions for this product. If you have any questions or concerns, please feel free to contact us at data@rearc.io.**
+
 As this outbreak has spread globally, Chicago Department of Public Health is tracking the COVID-19 cases and deaths closely and is using data to guide its response.
 
 #### Data Source
